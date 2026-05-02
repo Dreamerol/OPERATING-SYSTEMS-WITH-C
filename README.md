@@ -9,4 +9,4 @@
 <br>
 
 ![Linux OS](https://img.shields.io/badge/LINUX-KERNEL%20%26%20SYSTEMS-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
+![Systems C](https://img.shields.io/badge/SYSTEMS-C%20%2B%2B%20C-000000?style=for-the-badge&logo=gnu&logoColor=white)
