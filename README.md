@@ -1,5 +1,4 @@
 <h1 align="center">💻 𝗢𝗣𝗘𝗥𝗔𝗧𝗜𝗡𝗚 𝗦𝗬𝗦𝗧𝗘𝗠𝗦 𝗪𝗜𝗧𝗛 𝗖</h1>
-<h2 align="center"><strong><em>Operating Systems : Processes, Threads & Low-Level C</em></strong></h2>
 
 <br>
 
