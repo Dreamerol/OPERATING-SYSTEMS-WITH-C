@@ -3,7 +3,9 @@
 
 <br>
 
-![CPP 2025](https://github.com/Dreamerol/Dreamerol/blob/a13e23bc600e498f19a9360a63bd5f23bb1f99b2/CPP.jpg)
+<p align="center">
+  <img src="https://github.com/Dreamerol/Dreamerol/blob/a13e23bc600e498f19a9360a63bd5f23bb1f99b2/CPP.jpg" width="100%" />
+</p>
 
 
 <br>
