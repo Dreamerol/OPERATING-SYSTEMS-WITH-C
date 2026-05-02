@@ -8,6 +8,5 @@
 
 <br>
 
-![OS with C](https://img.shields.io/badge/OS%20DEVELOPMENT-C%20LANGUAGE-1f6feb?style=for-the-badge&logo=c&logoColor=white)
-
+![Operating Systems](https://img.shields.io/badge/OPERATING%20SYSTEMS-WITH%20C-0A192F?style=for-the-badge&logo=c&logoColor=white)
 
