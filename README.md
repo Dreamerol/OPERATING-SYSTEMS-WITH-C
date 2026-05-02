@@ -8,5 +8,4 @@
 
 <br>
 
-![Linux OS](https://img.shields.io/badge/LINUX-KERNEL%20%26%20SYSTEMS-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Systems C](https://img.shields.io/badge/SYSTEMS-C%20%2B%2B%20C-000000?style=for-the-badge&logo=gnu&logoColor=white)
+![OS Core](https://img.shields.io/badge/OPERATING%20SYSTEMS-C%20CORE-ff3c38?style=for-the-badge&logo=c&logoColor=white)
