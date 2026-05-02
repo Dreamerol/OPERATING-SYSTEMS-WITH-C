@@ -8,4 +8,6 @@
 
 <br>
 
+![OS with C](https://img.shields.io/badge/OS%20DEVELOPMENT-C%20LANGUAGE-1f6feb?style=for-the-badge&logo=c&logoColor=white)
+
 
