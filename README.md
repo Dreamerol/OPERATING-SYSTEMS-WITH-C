@@ -8,5 +8,5 @@
 
 <br>
 
-![Operating Systems](https://img.shields.io/badge/OPERATING%20SYSTEMS-WITH%20C-0A192F?style=for-the-badge&logo=c&logoColor=white)
+![Linux OS](https://img.shields.io/badge/LINUX-KERNEL%20%26%20SYSTEMS-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
