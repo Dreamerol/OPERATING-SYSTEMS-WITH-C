@@ -40,17 +40,6 @@
 
 
 
-
-# 🖥️ Operating Systems with C
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Language-C-blue?logo=c">
-<img src="https://img.shields.io/badge/Topic-Operating%20Systems-orange">
-<img src="https://img.shields.io/badge/Focus-Systems%20Programming-green">
-
-</div>
-
 ---
 
 ## 📌 Overview
