@@ -5,11 +5,20 @@
 <h1 align="center">💻 𝗢𝗣𝗘𝗥𝗔𝗧𝗜𝗡𝗚 𝗦𝗬𝗦𝗧𝗘𝗠𝗦 𝗪𝗜𝗧𝗛 𝗖</h1>
 <h2 align="center"><em>Processes • Memory • Concurrency • System Calls</em></h2>
 
+
 <br>
 
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/CPP.jpg" width="100%" />
+  <a href="https://github.com/Dreamerol/OPERATING-SYSTEMS-WITH-C">
+    <img 
+      src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/CPP.jpg"
+      width="100%"
+      alt="Mihaela Koseva - Operating Systems with C"
+    />
+  </a>
 </p>
+
 
 
 <br>
