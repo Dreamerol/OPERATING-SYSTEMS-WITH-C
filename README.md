@@ -23,6 +23,26 @@
 
 
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/Language-C-blue?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-Operating%20Systems-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Concepts-Processes%20%7C%20Memory%20%7C%20Concurrency-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Platform-Linux-yellow?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Tools-GCC%20%7C%20Make-red?style=for-the-badge" />
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
 
 
 <p align="center">
