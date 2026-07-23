@@ -115,34 +115,6 @@ with computer hardware and how operating systems manage computational resources.
 
 ---
 
-# 📂 Repository Structure
-
-```
-OPERATING-SYSTEMS-WITH-C/
-│
-├── processes/          # Process management examples
-│
-├── threads/            # Threading and synchronization
-│
-├── memory/             # Memory management examples
-│
-├── files/              # File handling and I/O
-│
-├── system-calls/       # System-level programming
-│
-├── examples/           # Additional experiments
-│
-├── Makefile
-└── README.md
-```
-
----
-
-
-
-
-
-
 
 <p align="center">
   
