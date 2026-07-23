@@ -29,4 +29,198 @@
   <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
 </p>
 
+
+
+
+
+
+
+
+
+
+
+
+
+# 🖥️ Operating Systems with C
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Language-C-blue?logo=c">
+<img src="https://img.shields.io/badge/Topic-Operating%20Systems-orange">
+<img src="https://img.shields.io/badge/Focus-Systems%20Programming-green">
+
+</div>
+
+---
+
+## 📌 Overview
+
+**Operating Systems with C** is a collection of implementations and
+experiments focused on understanding the fundamental concepts behind modern
+operating systems using the C programming language.
+
+The repository explores low-level programming concepts, system architecture,
+memory management, processes, and resource handling.
+
+The main goal is to build a deeper understanding of how software interacts
+with computer hardware and how operating systems manage computational resources.
+
+---
+
+## 🧠 Topics Covered
+
+### ⚙️ Process Management
+- Creating and managing processes
+- Process lifecycle
+- Parent and child processes
+- Process communication
+
+### 🧵 Threads & Synchronization
+- Multithreading concepts
+- Thread creation
+- Synchronization mechanisms
+- Race conditions
+
+### 💾 Memory Management
+- Dynamic memory allocation
+- Pointers and memory handling
+- Stack vs Heap
+- Memory organization
+
+### 📂 File Systems & I/O
+- File operations
+- Reading and writing data
+- Low-level input/output concepts
+
+### 🔄 System Programming
+- System calls
+- Operating system interfaces
+- Interaction between applications and hardware
+
+---
+
+# 🛠️ Technologies
+
+| Technology | Usage |
+|---|---|
+| C | Core programming language |
+| Linux | Development environment |
+| GCC | Compilation |
+| Make | Build automation |
+| Git | Version control |
+
+---
+
+# 📂 Repository Structure
+
+```
+OPERATING-SYSTEMS-WITH-C/
+│
+├── processes/          # Process management examples
+│
+├── threads/            # Threading and synchronization
+│
+├── memory/             # Memory management examples
+│
+├── files/              # File handling and I/O
+│
+├── system-calls/       # System-level programming
+│
+├── examples/           # Additional experiments
+│
+├── Makefile
+└── README.md
+```
+
+---
+
+# 🚀 Getting Started
+
+## Clone the repository
+
+```bash
+git clone https://github.com/Dreamerol/OPERATING-SYSTEMS-WITH-C.git
+```
+
+## Navigate to the project
+
+```bash
+cd OPERATING-SYSTEMS-WITH-C
+```
+
+## Compile
+
+```bash
+make
+```
+
+## Run examples
+
+```bash
+./program_name
+```
+
+---
+
+# 💡 Key Concepts Practiced
+
+Through this repository I practice:
+
+✅ C programming  
+✅ Pointers and memory management  
+✅ Data structures  
+✅ Algorithms  
+✅ Processes and threads  
+✅ Concurrency  
+✅ System programming  
+✅ Linux fundamentals  
+✅ Computer architecture concepts  
+
+---
+
+# 🎯 Learning Objectives
+
+This project helps develop a stronger understanding of:
+
+- How operating systems manage resources
+- How programs execute internally
+- How memory is allocated and controlled
+- How processes communicate
+- How low-level software interacts with hardware
+
+---
+
+# 📚 Computer Science Foundations
+
+Operating systems are one of the most important areas of computer science,
+connecting:
+
+- Software engineering
+- Computer architecture
+- Programming languages
+- Hardware abstraction
+
+This repository represents practical exploration of these fundamental concepts.
+
+---
+
+# 👩‍💻 Author
+
+## Mihaela Koseva
+
+Software Engineering Student  
+Faculty of Mathematics and Informatics (FMI)  
+Sofia University "St. Kliment Ohridski"
+
+Interests:
+
+- Artificial Intelligence
+- Machine Learning
+- Backend Development
+- Systems Programming
+- Algorithms & Data Structures
+
+
+
+
 ---
