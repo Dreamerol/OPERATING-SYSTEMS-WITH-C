@@ -10,12 +10,10 @@
 
 
 <p align="center">
-  <a href="https://github.com/Dreamerol/OPERATING-SYSTEMS-WITH-C">
-    <img 
-      src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/CPP.jpg"
-      width="100%"
-      alt="Mihaela Koseva - Operating Systems with C"
-    />
+  <a href="https://github.com/Dreamerol">
+    <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/CPP.jpg"
+         width="100%"
+         alt="Mihaela Koseva - Operating Systems with C" />
   </a>
 </p>
 
