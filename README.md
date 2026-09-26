@@ -189,9 +189,9 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
+<div align="left">
 
-
-
+<div align="left">
 
 
 
@@ -349,6 +349,13 @@ Interests:
 - Backend Development
 - Systems Programming
 - Algorithms & Data Structures
+
+
+
+  </div>
+
+  </div>
+
 
   
 
